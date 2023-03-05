@@ -19,7 +19,7 @@ Contributions to this repository are welcome. If you find a bug or have a sugges
 
 ## License
 
-This example repository is licensed under the Apache 2.0  License. See the [https://www.apache.org/licenses/LICENSE-2.0](LICENSE) file for more information.
+This example repository is licensed under the Apache 2.0  License. See the [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) file for more information.
 
 
 
