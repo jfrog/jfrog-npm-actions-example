@@ -1,1 +1,0 @@
-# create-npm-package-tutorial
